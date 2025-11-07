@@ -1,0 +1,2 @@
+source D:/Lab05_HTN/build/bootloader/gdbinit/symbols
+source D:/Lab05_HTN/build/bootloader/gdbinit/connect
